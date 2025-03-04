@@ -1,7 +1,11 @@
+# Prerequisites
+
 **pip install numpy pandas streamlit**
 
-**RUN main.py for console output**
-**RUN bankers_algo.py for streamlit application**
+# File Choice
+
+`git status`
+*RUN bankers_algo.py for streamlit application*
 
 **OUTPUT FORMAT**
 
